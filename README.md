@@ -28,7 +28,7 @@ The PayPal Server SDK SDK for .NET provides access to the PayPal Server SDK REST
 Install the package from NuGet:
 
 ```bash
-dotnet add package ZaidSid.PayPalServerSdk
+dotnet add package Darker98.PayPalServerSdk
 ```
 
 > [!NOTE]

@@ -7,9 +7,9 @@
         <ImplicitUsings>disable</ImplicitUsings>
         <NoWarn>$(NoWarn);649</NoWarn>
 
-        <PackageId>ZaidSid.PayPalServerSdk</PackageId>
+        <PackageId>Darker98.PayPalServerSdk</PackageId>
         <Version>1.0.0</Version>
-        <Authors>ZaidSid</Authors>
+        <Authors>Darker98</Authors>
         <Description>Unofficial .NET SDK for the PayPal REST APIs (Orders v2, Payments v2, Vault v3, Transaction Search v1, Subscriptions v1), generated with APIMatic. Not affiliated with or endorsed by PayPal.</Description>
         <PackageTags>paypal;payments;sdk;apimatic</PackageTags>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
